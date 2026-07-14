@@ -4,8 +4,8 @@
     "accounts": [
         {
             "id": "902428075",
-            "username": "vip",
-            "password": "123456",
+            "username": "vipbuying",
+            "password": "123456789",
             "type": "vip",
             "expiry": "forever",
             "created": "2026-07-14",
