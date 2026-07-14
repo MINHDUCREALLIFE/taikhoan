@@ -1,0 +1,16 @@
+{
+    "version": "1.0",
+    "lastUpdate": "2026-07-14",
+    "accounts": [
+        {
+            "id": "902428075",
+            "username": "vip",
+            "password": "123456",
+            "type": "vip",
+            "expiry": "forever",
+            "created": "2026-07-14",
+            "status": "active",
+            "allowedFunctions": []
+        }
+    ]
+}
