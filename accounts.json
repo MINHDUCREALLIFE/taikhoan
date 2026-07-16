@@ -1,16 +1,40 @@
 {
     "version": "1.0",
-    "lastUpdate": "2026-07-14",
+    "lastUpdate": "2026-07-16",
     "accounts": [
         {
-            "id": "902428075",
-            "username": "vip",
-            "password": "123456789",
+            "id": "449139156",
+            "username": "adminmduc",
+            "password": "0819261111",
             "type": "vip",
             "expiry": "forever",
-            "created": "2026-07-14",
+            "created": "2026-07-16",
             "status": "active",
             "allowedFunctions": []
+        },
+        {
+            "id": "494877202",
+            "username": "thuongdamvcl",
+            "password": "Bienthaivutoles",
+            "type": "vip",
+            "expiry": "forever",
+            "created": "2026-07-16",
+            "status": "active",
+            "allowedFunctions": []
+        },
+        {
+            "id": "716671004",
+            "username": "Free123",
+            "password": "123",
+            "type": "free",
+            "expiry": "2026-07-17",
+            "created": "2026-07-16",
+            "status": "active",
+            "allowedFunctions": [
+                "5",
+                "8",
+                "7"
+            ]
         }
     ]
 }
