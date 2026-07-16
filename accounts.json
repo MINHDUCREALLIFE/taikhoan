@@ -1,6 +1,6 @@
 {
-    "version": "1.0",
-    "lastUpdate": "2026-07-16",
+    "version": "2.2",
+    "lastUpdate": "2026-07-16T14:59:18.149Z",
     "accounts": [
         {
             "id": "449139156",
@@ -8,7 +8,7 @@
             "password": "0819261111",
             "type": "vip",
             "expiry": "forever",
-            "created": "2026-07-16",
+            "created": "2026-07-16T00:00:00.000Z",
             "status": "active",
             "allowedFunctions": []
         },
@@ -18,22 +18,22 @@
             "password": "Bienthaivutoles",
             "type": "vip",
             "expiry": "forever",
-            "created": "2026-07-16",
+            "created": "2026-07-16T00:00:00.000Z",
             "status": "active",
             "allowedFunctions": []
         },
         {
-            "id": "716671004",
-            "username": "Free123",
-            "password": "123",
+            "id": "958146114",
+            "username": "Freetaikhoan2tiengdengio23:58",
+            "password": "123456",
             "type": "free",
-            "expiry": "2026-07-18",
-            "created": "2026-07-17",
+            "expiry": "2026-07-16T16:59:18.146Z",
+            "created": "2026-07-16T14:59:18.146Z",
             "status": "active",
             "allowedFunctions": [
                 "5",
-                "8",
-                "7"
+                "7",
+                "8"
             ]
         }
     ]
