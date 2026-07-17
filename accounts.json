@@ -1,6 +1,6 @@
 {
     "version": "2.2",
-    "lastUpdate": "2026-07-16T14:59:18.149Z",
+    "lastUpdate": "2026-07-17T12:10:43.612Z",
     "accounts": [
         {
             "id": "449139156",
@@ -23,18 +23,14 @@
             "allowedFunctions": []
         },
         {
-            "id": "958146114",
-            "username": "Freetaikhoan2tiengdengio23:58",
-            "password": "123456",
-            "type": "free",
-            "expiry": "2026-07-16T16:59:18.146Z",
-            "created": "2026-07-16T14:59:18.146Z",
+            "id": "243609182",
+            "username": "free1dapfullchn",
+            "password": "muakeyib0819261111",
+            "type": "vip",
+            "expiry": "2026-07-18T12:10:43.608Z",
+            "created": "2026-07-17T12:10:43.609Z",
             "status": "active",
-            "allowedFunctions": [
-                "5",
-                "7",
-                "8"
-            ]
+            "allowedFunctions": []
         }
     ]
 }
