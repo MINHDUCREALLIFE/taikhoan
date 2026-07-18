@@ -1,6 +1,6 @@
 {
     "version": "2.2",
-    "lastUpdate": "2026-07-18T07:09:28.959Z",
+    "lastUpdate": "2026-07-18T10:28:46.980Z",
     "accounts": [
         {
             "id": "519662766",
@@ -22,7 +22,18 @@
             "created": "2026-07-18T07:09:28.957Z",
             "status": "active",
             "allowedFunctions": [],
-            "deviceId": "dc852b0af06d013094f3a913432aab9e"
+            "deviceId": "df5cdd4529b7d0a96b74ab98a05e35b5"
+        },
+        {
+            "id": "526978535",
+            "username": "taikhoantrade1ngay1thietbi",
+            "password": "123456789",
+            "type": "vip",
+            "expiry": "2026-07-19T10:28:46.978Z",
+            "created": "2026-07-18T10:28:46.978Z",
+            "status": "active",
+            "allowedFunctions": [],
+            "deviceId": "4d5bac160b9eab78b20c026ebd0c86aa"
         }
     ]
 }
