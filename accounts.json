@@ -1,36 +1,28 @@
 {
     "version": "2.2",
-    "lastUpdate": "2026-07-17T12:10:43.612Z",
+    "lastUpdate": "2026-07-18T07:09:28.959Z",
     "accounts": [
         {
-            "id": "449139156",
-            "username": "adminmduc",
+            "id": "519662766",
+            "username": "thuongvuto",
+            "password": "Choemxemvu",
+            "type": "vip",
+            "expiry": "forever",
+            "created": "2026-07-18T07:08:39.662Z",
+            "status": "active",
+            "allowedFunctions": [],
+            "deviceId": "e5f470413cb6c8ec7064aca57181b8d3"
+        },
+        {
+            "id": "568957145",
+            "username": "adminweb",
             "password": "0819261111",
             "type": "vip",
             "expiry": "forever",
-            "created": "2026-07-16T00:00:00.000Z",
+            "created": "2026-07-18T07:09:28.957Z",
             "status": "active",
-            "allowedFunctions": []
-        },
-        {
-            "id": "494877202",
-            "username": "thuongdamvcl",
-            "password": "Bienthaivutoles",
-            "type": "vip",
-            "expiry": "forever",
-            "created": "2026-07-16T00:00:00.000Z",
-            "status": "active",
-            "allowedFunctions": []
-        },
-        {
-            "id": "243609182",
-            "username": "free1ngayfullchn",
-            "password": "muakeyib0819261111",
-            "type": "vip",
-            "expiry": "2026-07-18T12:10:43.608Z",
-            "created": "2026-07-17T12:10:43.609Z",
-            "status": "active",
-            "allowedFunctions": []
+            "allowedFunctions": [],
+            "deviceId": "df5cdd4529b7d0a96b74ab98a05e35b5"
         }
     ]
 }
