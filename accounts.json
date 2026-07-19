@@ -11,7 +11,8 @@
             "created": "2026-07-18T07:08:39.662Z",
             "status": "active",
             "allowedFunctions": [],
-            "deviceId": "0bf65bf439ceedef4eb9f7460a5782a3"
+            "deviceId": ["0bf65bf439ceedef4eb9f7460a5782a3","116258addcbfe902e96ef11f28be0b04"]
+            
         },
         {
             "id": "568957145",
