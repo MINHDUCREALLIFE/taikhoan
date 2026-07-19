@@ -38,16 +38,6 @@
             "deviceId": "116258addcbfe902e96ef11f28be0b04"
         },
         
-        {
-            "id": "526978535",
-            "username": "taikhoantrade1ngay1thietbi",
-            "password": "123456789",
-            "type": "vip",
-            "expiry": "2026-07-19T10:28:46.978Z",
-            "created": "2026-07-18T10:28:46.978Z",
-            "status": "active",
-            "allowedFunctions": [],
-            "deviceId": "4d5bac160b9eab78b20c026ebd0c86aa"
-        }
+
     ]
 }
